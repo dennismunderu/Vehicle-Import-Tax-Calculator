@@ -191,4 +191,8 @@ This project demonstrates how unstructured regulatory data can be transformed in
 
 From an analytics perspective, it showcases data quality handling, validation, and business-rule fidelity.
 
+
+
+***The full data cleaning workflow is documented in the Jupyter notebook included in this repository.***
+
 ---
