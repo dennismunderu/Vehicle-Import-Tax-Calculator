@@ -1,6 +1,8 @@
 # Kenyan Vehicle Import Tax Calculator (CRSP-Based) 🚗💰
 
-<img src="data/project_banner/KRA Import Tax Calculator.png" alt="Import Tax Calculator" width="60%"/>
+<p align="center">
+  <img src="data/project_banner/KRA Import Tax Calculator.png" alt="Import Tax Calculator" width="75%"/>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
