@@ -4,6 +4,9 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+<img src="data/project_banner/KRA Import Tax Calculator.png" alt="Import Tax Calculator" width="100%"/>
+
 **A practical data cleaning and business-rules project that transforms the messy official KRA CRSP dataset into an accurate vehicle import tax calculator for Kenya.**
 
 Importing vehicles into Kenya is a high-risk financial decision for individuals and small businesses due to the country’s complex vehicle taxation framework. Import taxes often range between 80% and 150% of the Cost and Freight (C&F) value, and many importers only discover the true tax burden after the vehicle has already arrived at the port.
